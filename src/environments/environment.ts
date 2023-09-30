@@ -3,7 +3,11 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+    
+  URL_BACKEND: 'http://44.215.147.158:8000/',
+  URL_SERVICIOS: 'http://44.215.147.158:8000/api',
+  URL_FROTEND: 'http://52.205.168.180:4200',
 };
 
 /*

@@ -10,6 +10,7 @@
 # dependencies
 /node_modules
 .comandos-arteconectachile.txt
+/rafcat
 # profiling files
 chrome-profiler-events*.json
 
